@@ -18,3 +18,4 @@ function sum(a,b){
 return a+b 
 }
 sum(3,2)
+//This is function of adding 2 number.
