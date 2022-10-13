@@ -13,7 +13,8 @@ app.use('/', route);
 app.listen(process.env.PORT || 3000, function() {
     console.log('Express app running on port ' + (process.env.PORT || 3000))
 });
-function sum(){
-}[A[C[C[C[C[C[C[C[C[C[C[C[C[C[Da,b){
-return a+b }
+
+function sum(a,b){
+return a+b 
+}
 sum(3,2)
